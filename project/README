@@ -5,3 +5,52 @@ Welcome to the Search App project, a tool designed to enhance students' search c
 
 Purpose
 The purpose of the Search App is to help students effectively search for information online, enabling them to excel in academic assignments and personal research endeavors. The app aims to optimize the search experience by providing useful features and a user-friendly interface.
+Image Search App Documentation
+Overview
+The Image Search App is a simple web application designed to allow users to search for and view images. It provides a user-friendly interface for searching and displaying images sourced from various external URLs.
+
+Features
+1. Image Search
+Users can enter search queries in the search input field and press the "Search" button to initiate an image search.
+
+2. Display of Search Results
+The app displays search results in a visually appealing format. Each search result consists of an image and a link to the source of that image.
+
+3. Show More Button
+Users can utilize the "Show More" button to potentially view additional search results or load more images.
+
+Usage
+Open the Image Search App in a web browser.
+
+Enter a search query in the search input field.
+
+Click the "Search" button to initiate the search.
+
+View the displayed images, each accompanied by a link to the image source.
+
+To view more images, click the "Show More" button.
+
+Example Search Results
+Below are some example search results:
+
+Desert Images
+Desert Images
+View on Unsplash
+
+Flamingos
+Flamingos
+View on Unsplash
+
+Nature
+Nature
+View on Unsplash
+
+Animals
+Animals
+View on iStockPhoto
+
+Conclusion
+The Image Search App provides a straightforward way for users to search and view images based on their interests. With its intuitive interface and visually pleasing display of search results, it offers a convenient tool for image exploration and discovery.
+
+THE AUTHOR
+Faith Njeri
